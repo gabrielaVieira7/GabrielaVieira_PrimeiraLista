@@ -25,7 +25,7 @@ public class GabrielaVieira_Exercicio5 {
         System.out.println("insira sua idade");
 
         //Lê as notas
-       idade = leitor.nextInt();
+        idade = leitor.nextInt();
 
         //mostra se a pessoa é idoso ou adulto ou adolescente ou criança
         if (idade >= 66)
